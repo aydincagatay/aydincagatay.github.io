@@ -13,7 +13,9 @@ Size olabildiğince kolay bir şekilde bu blog sitesini nasıl kurduğumu anlat�
 4) Ubuntu ya da Windows kullanıcısıysanız Ubuntu destkop
 
 Sonra ise gitbashi açın githuba kaydolduğunuz emaili aşağıdaki kod aralığına yazın.
+
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
 Ssh şifremizin nereye kaydedileceğini soracak bir yol belirleyin ve kaydedin.
 Sonra ise güvenlik adımlarını izleyin ve ssh şifreniz kaydedilmiş olacaktır.
 
