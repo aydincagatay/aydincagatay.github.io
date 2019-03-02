@@ -1,10 +1,4 @@
-<!-- Javascript -->
-<script type="text/javascript" src="{{site.baseurl}}/assets/plugins/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="{{site.baseurl}}/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-
-<!-- custom js -->
-<script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script>
-
-{% if site.analytics %}
-  {% include analytics.html %}
-{% endif %}
+<!-- Add jQuery and other scripts -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="{{ \'/assets/js/jquery-1.11.2.min.js\' | prepend: site.baseurl }}"><\/script>')</script>
+<script src="{{ '/assets/js/scripts.js' | prepend: site.baseurl }}"></script>
