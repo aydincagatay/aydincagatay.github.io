@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakkımda
+title: HAKKIMDA
 permalink: /hakkimda/
 ---
 
