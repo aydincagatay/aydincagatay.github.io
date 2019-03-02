@@ -1,28 +1,34 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+# Your Name or Company
+title: Uni Kravitz
 
-url: https://aydincagatay.github.io/
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+# Description of your website. This is used for social sharing.
+description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
-markdown: kramdown
-highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 5
+# A brief blurb about yourself
+content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
 
-navigation:
-  - title: Home
-    url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-
+# Add your social links
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  - platform: github
+    url: https://github.com/brianmaierjr
+  - platform: facebook
+    url: https://facebook.com/brianmaierjr
+  - platform: twitter
+    url: https://twitter.com/brianmaierjr
+  - platform: linkedin
+    url: brianmaierjr
 
-google_analytics: "UA-58263416-1"
+# General settings
+url: https://aydincagatay.github.io/
+baseurl: "" 
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center

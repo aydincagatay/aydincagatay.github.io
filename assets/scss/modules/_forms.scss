@@ -38,7 +38,7 @@ form {
 	// Notes go under the input fields
 	.note {
 		margin-top:5px;
-		color:$subtle-color;
+		color: gray;
 	}
 
 	// Required label
@@ -52,11 +52,11 @@ form {
 		// Validation reason
 		.reason {
 			margin-top:5px;
-			color:$bad-color;
+			color: red;
 		}
 
 		input[type=text],input[type=email],input[type=phone],input[type=password],input[type=number],input[type=search], textarea{
-			border-color:$bad-color;
+			border-color: red;
 		}
 	}
 }
