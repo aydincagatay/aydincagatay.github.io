@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/octojekyll.png" caption="" width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+Çağatay AYDIN, 1997 İstanbul. Karabük üniversitesinde 4. sınıf bilgisayar mühendisliği öğrencisiyim. En büyük hedefim ilerde Barış Özcan videolarına konuk olup "vay be" dedirtmek. Bu aralar aynı zamanda bitirme tezim de olan, hikaye kitaplarını duygusal şekilde okuyabilen bir sesli kitap okuyucusu geliştirmekteyim bu sayede son zamanların trendlerinden olan sesli kitaplar ilerde bir yapay zeka tarafından seslendirilecek. Onun dışında WeWanted Mobil Development takımındayım. Şimdilik bu kadar.
 
