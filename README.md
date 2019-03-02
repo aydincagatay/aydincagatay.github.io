@@ -1,126 +1,48 @@
-# Space Jekyll
+![preview Long Haul](/preview.jpg)
 
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
+If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
+#### [View Demo](http://brianmaierjr.com/long-haul)
 
-# Site/User Settings
+## Features
 
-customize your site in ``_config.yml``
+- Minimal, Type Focused Design
+- Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
+- SVG Social Icons
+- Responsive Nav Menu
+- XML Feed for RSS Readers
+- Contact Form via Formspree
+- 5 Post Loop with excerpt on Home Page
+- Previous / Next Post Navigation
+- Estimated Reading Time for posts
+- Stylish Drop Cap on posts
+- A Better Type Scale for all devices
 
-```ruby
+## Setup
 
-# Site settings
-description: A blog about lorem ipsum
-baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site
+1. [Install Jekyll](http://jekyllrb.com)
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+3. Clone it
+4. [Install Bundler](http://bundler.io/)
+5. Run `bundle install`
+6. Install gulp dependencies by running `npm install`
+7. Run Jekyll and watch files by running `bundle exec gulp`
+8. Customize and watch the magic happen!
 
-# User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+## Site Settings
 
-```
+The main settings can be found inside the `_config.yml` file:
 
-See more about project and links in [_config.yml](./_config.yml)
-
-## How to create a post ?
-
-_posts create a file .md with structure:
-
-```md
----
-layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
-image: '/assets/img/post-image.png'
-description: 'about tech'
-tags:
-- lorem
-- tech
-categories:
-- Lorem ipsum
-twitter_text: 'How to speak with Lorem'
----
-```
-
-## How to insert new links on menu navigation ?
-
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/src/img/menu.png)
-
-You should open `_config.yml` and change/add `links` section:
-
-```yaml
-links:
-  section_1: # you can use any name
-    - title: home # show on menu
-      url: / #link
-      key_trigger: 1 # link shortcut and show on the left of the title
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
-```
-
-Frontend Technologies
----------------------
-* [Gulp](https://gulpjs.com/): The streaming build system.
-* [Stylus](http://stylus-lang.com/): expressive, dynamic, robust CSS.
-* [BrowserSync](https://www.browsersync.io/): Time-saving synchronised browser testing.
-* [Rupture](https://github.com/jescalan/rupture): Simple media queries for stylus.
-* [Kouto-Swiss](http://kouto-swiss.io/): A complete CSS framework for Stylus.
-* [Jeet](http://jeet.gs/): A grid system for human.
-* [Zepto.js](http://zeptojs.com/): The aerogel-weight jQuery-compatible JavaScript library.
-
-## How can I modify the theme ?
-
-First, install [jekyll](https://jekyllrb.com/) and [node.js](https://nodejs.org/).
-
-1. Fork the theme with your username, example: `charlie.github.io`
-2. Clone repository to your computer
-3. run `npm install`
-4. run `gulp`
-5. Be happy by modifying the files
-
-**Space Jekyll** uses the [Stylus](http://stylus-lang.com/) to process his css, then modifies the style of the theme in [this folder](https://github.com/victorvoid/space-jekyll-template/tree/master/src/styl).
-
-You can go in the [variable.styl](https://github.com/victorvoid/space-jekyll-template/blob/master/src/styl/_variables.styl) and modify the colors. 
-
+- **title:** title of your site
+- **description:** description of your site
+- **url:** your url
+- **paginate:** the amount of posts displayed on homepage
+- **navigation:** these are the links in the main site navigation
+- **social** diverse social media usernames (optional)
+- **google_analytics** Google Analytics key (optional)
 
 ## License
-The MIT License (MIT)
 
-Copyright (c) 2016 Victor Igor
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
