@@ -30,6 +30,6 @@ Gelelim başlangıçta yaptığımız ssh keyi, repositorye eklemeye.
 Bu kısım çok kolay repository'den settings'e gelin.
 Ardından Deploy key seçeneğine basın ve ssh keyi oraya ekleyin. 
 
-Siteniz birkaç dakika gecikmeli olarak github sistemlerine eklenebilir ve aradaki zaman sizin için sorun olabilir. Bu olumsuz yönlerinden biri. Olumlu yönleri ise basit ve ücretsiz. 
+Siteniz birkaç dakika gecikmeli olarak github sistemlerine eklenebilir ve aradaki zaman sizin için sorun olabilir. Bu olumsuz yönlerinden biri. Olumlu yönleri ise basit ve ücretsiz ayrıca statik bir siteyi developerin ellerine verirseniz zaten dinamikleşecektir...
 
 
