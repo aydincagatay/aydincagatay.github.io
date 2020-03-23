@@ -12,6 +12,7 @@
               </span>
 
               <span class="username">Pigeonnhole</span>
+              </a>
 </div>        
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
