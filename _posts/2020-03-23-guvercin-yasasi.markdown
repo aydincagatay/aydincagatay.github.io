@@ -4,13 +4,10 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><a href="https://colab.research.google.com/github/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb" target="_parent"><img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a></p>
-<a href="https://github.com/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb">
-              <span class="icon  icon--github">
-                <svg viewBox="0 0 16 16">
-                </svg>
-              </span>
-              Pigeonhole
-</a>
+
+<span class="github-btn github-stargazers" id="github-btn"><a class="gh-btn" id="gh-btn" href="https://github.com/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb/" target="_blank" aria-label="Star on GitHub"><span class="gh-ico" aria-hidden="true"></span> <span class="gh-text" id="gh-text">Pigeon Hole</span></a> <a class="gh-count" id="gh-count" href="https://github.com/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb/stargazers" target="_blank" aria-label="3 stargazers on GitHub" style="display: block;">3</a></span>
+  
+  
 </div>        
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
