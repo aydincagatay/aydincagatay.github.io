@@ -11,7 +11,7 @@
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>İsterseniz bu postu Colabarotry'de de açabilirsiniz. Ya da Github linkine gidebilirsiniz.</p>
+<a href ="https://github.com/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb">İsterseniz burdan Github linkine de gidebilirsiniz.</a>
 <h1>
 <strong>Güvercin Yuvası Prensibi</strong><a class="anchor-link" href="#G%C3%BCvercin-Yuvas%C4%B1-Prensibi"></a>
 </h1>
