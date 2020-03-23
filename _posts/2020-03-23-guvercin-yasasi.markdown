@@ -11,8 +11,8 @@
                 </svg>
               </span>
 
-              <span class="username">Pigeonnhole>
-            
+              <span class="username">Pigeonnhole</span>
+</div>        
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
