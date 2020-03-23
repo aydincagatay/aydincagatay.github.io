@@ -39,7 +39,7 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2>
-<strong>#Çözüm</strong><a class="anchor-link" href="#Soru"></a>
+<strong>Çözüm</strong><a class="anchor-link" href="#Soru"></a>
 </h2>
  <blockquote>   
 <p>Sayılar saat yönünde a1,a2,...,a12 olsun.</p>
