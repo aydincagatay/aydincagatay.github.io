@@ -1,16 +1,18 @@
----
-layout: post
-title:  guvercin-yasasi"
-date:   2020-03-23 23:09:21
-categories: jekyll update
----<div id="notebook" class="js-html">
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><a href="https://colab.research.google.com/github/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb" target="_parent"><img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a></p>
+<a href="https://github.com/aydincagatay/Probability-for-discrete-random-variable/blob/master/PigeonHole.ipynb">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"></path>
+                </svg>
+              </span>
 
+              <span class="username">PigeonHole>
+            </a>
 </div>
 </div>
 </div>
@@ -19,8 +21,9 @@ categories: jekyll update
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p>İsterseniz bu postu Colabarotry'de de açabilirsiniz. Ya da Github linkine gidebilirsiniz.</p>
 <h1>
-<strong>Güvercin Yuvası Prensibi</strong><a class="anchor-link" href="#G%C3%BCvercin-Yuvas%C4%B1-Prensibi">¶</a>
+<strong>Güvercin Yuvası Prensibi</strong><a class="anchor-link" href="#G%C3%BCvercin-Yuvas%C4%B1-Prensibi"></a>
 </h1>
 <p>Eğer 4 güvercininiz ve onları yerleştirebileceğiniz 3 yuvanız varsa en az ikisi yuva arkadaşı olmak zorundadır.</p>
 <p><em>Genel bir ifadeyle: Eğer k deliğe koymak için k + 1 tane objeniz varsa, o zaman en azından bir tane deliğin içinde 2 veya daha fazla obje olması zorunludur.</em></p>
@@ -33,7 +36,7 @@ categories: jekyll update
 <p>Babası da "peki" demiş tabi. Bugün biz bu prensibi, güvercin yuvası prensibi olarak biliyoruz.</p>
 <p>Güvercin yuvası prensibi hem matematiksel teorem ispatlarında hem de güvercin yerleştirmek gibi matematik ile direkt bağlantısı olmadığını sandığımız bir çok yerde karşımıza çıkmaktadır.</p>
 <h2>
-<strong>Soru</strong><a class="anchor-link" href="#Soru">¶</a>
+<strong>Soru</strong><a class="anchor-link" href="#Soru"></a>
 </h2>
 <p>1 den 12 ye kadar sayılar bir çemberin üzerine diziliyor. Bu işlem hangi sıralamayla yapılırsa yapılsın toplamları 20 veya daha fazla olan komşu 3 sayının muhakkak bulunacağını gösterme deneyini kodda gösterelim.</p>
 
@@ -47,7 +50,7 @@ categories: jekyll update
 <div class="text_cell_render border-box-sizing rendered_html">
 <blockquote>
 <h2>
-<strong>Çözüm</strong><a class="anchor-link" href="#%C3%87%C3%B6z%C3%BCm">¶</a>
+<strong>Çözüm</strong><a class="anchor-link" href="#%C3%87%C3%B6z%C3%BCm"></a>
 </h2>
 <p>Sayılar saat yönünde a1,a2,...,a12 olsun.</p>
 <p>b1=a1+a2+a3</p>
@@ -176,11 +179,10 @@ toplam / 12 =~ 20
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1>
-<strong>20'den büyük olan en az bir 3'lü grup vardır.</strong><a class="anchor-link" href="#20'den-b%C3%BCy%C3%BCk-olan-en-az-bir-3'l%C3%BC-grup-vard%C4%B1r.">¶</a>
+<strong>20'den büyük olan en az bir 3'lü grup vardır.</strong><a class="anchor-link" href="#20'den-b%C3%BCy%C3%BCk-olan-en-az-bir-3'l%C3%BC-grup-vard%C4%B1r."></a>
 </h1>
 </div>
 </div>
 </div>
  
 
-</div>
