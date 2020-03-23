@@ -24,7 +24,7 @@
 <p>Babası da "ağaç sayısı" demiş.</p>
 <p>Gauss da babasına demiş ki : "o zaman bu ormanda birbiriyle aynı sayıda yaprağı olan iki ağaç vardır".</p>
 <p>Babası da "peki" demiş tabi. Bugün biz bu prensibi, güvercin yuvası prensibi olarak biliyoruz.</p>
-<p>Güvercin yuvası prensibi hem matematiksel teorem ispatlarında hem de güvercin yerleştirmek gibi matematik ile direkt bağlantısı olmadığını sandığımız bir çok yerde karşımıza çıkmaktadır.</p>
+<p>Güvercin yuvası prensibi hem matematiksel teorem ispatlarında hem de güvercin yerleştirmek gibi matematik ile direkt bağlantısı olmadığını sandığımız bir çok yerde karşımıza çıkmaktadır. Şimdi ise başka bir güvercin yuvası problemine bakalım.</p>
 <h2>
 <strong>Soru</strong><a class="anchor-link" href="#Soru"></a>
 </h2>
@@ -38,10 +38,10 @@
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<blockquote>
 <h2>
-<strong>Çözüm</strong><a class="anchor-link" href="#%C3%87%C3%B6z%C3%BCm"></a>
+<strong>#Çözüm</strong><a class="anchor-link" href="#Soru"></a>
 </h2>
+ <blockquote>   
 <p>Sayılar saat yönünde a1,a2,...,a12 olsun.</p>
 <p>b1=a1+a2+a3</p>
 <p>b2=a2+a3+a4</p>
