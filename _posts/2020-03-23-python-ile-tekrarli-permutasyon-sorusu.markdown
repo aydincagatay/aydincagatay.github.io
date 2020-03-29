@@ -15,7 +15,7 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1>
-<strong>PYTHON İLE TEKRARLI PERMÜTASYON ÖRNEĞİ</strong><a class="anchor-link" href="#PYTHON-%C4%B0LE-TEKRARLI-PERM%C3%9CTASYON-%C3%96RNE%C4%9E%C4%B0">¶</a>
+<strong>PYTHON İLE TEKRARLI PERMÜTASYON ÖRNEĞİ</strong>
 </h1>
 <p>Soru:</p>
 <p><img src="https://camo.githubusercontent.com/859175ebfda7fa4bdb85a957d30280336176aadf/68747470733a2f2f6769746875622e636f6d2f617964696e636167617461792f50726f626162696c6974792d666f722d64697363726574652d72616e646f6d2d7661726961626c652f626c6f622f6d61737465722f696d616765732f7470312e706e673f7261773d74727565" alt="alt text" data-canonical-src="https://github.com/aydincagatay/Probability-for-discrete-random-variable/blob/master/images/tp1.png?raw=true"></p>
