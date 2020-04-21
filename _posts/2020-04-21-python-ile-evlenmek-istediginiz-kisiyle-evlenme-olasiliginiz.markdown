@@ -5,7 +5,7 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1>
-<strong>Kombinasyon ve Karşılaşma Problemi</strong><a class="anchor-link" href="#Kombinasyon-ve-Kar%C5%9F%C4%B1la%C5%9Fma-Problemi">¶</a>
+<strong>Kombinasyon ve Karşılaşma Problemi</strong><a class="anchor-link" href="#Kombinasyon-ve-Kar%C5%9F%C4%B1la%C5%9Fma-Problemi"></a>
 </h1>
 <p><strong>Kombinasyon</strong>, bir nesne grubu içerisinden, sıra gözetmeksizin yapılan seçimlerdir. Örnek olarak mavi, sarı ve kırmızı topların bulunduğu torbadan çekilen topların seçilmesi olayının kaç farklı şekilde olabileceğinin hesaplanması kombinasyon ile hesaplanır.</p>
 <p><strong>Kombinasyonun formülü</strong></p>
@@ -21,12 +21,12 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1>
-<strong>Soru:</strong><a class="anchor-link" href="#Soru:">¶</a>
+<strong>Soru:</strong><a class="anchor-link" href="#Soru:"></a>
 </h1>
-<h1>Evlendiğiniz kişinin, evlenmek istediğiniz kişi olmasının olasılığı ne olabilir ?<a class="anchor-link" href="#Evlendi%C4%9Finiz-ki%C5%9Finin,-evlenmek-istedi%C4%9Finiz-ki%C5%9Fi-olmas%C4%B1n%C4%B1n-olas%C4%B1l%C4%B1%C4%9F%C4%B1-ne-olabilir-?">¶</a>
+<h1>Evlendiğiniz kişinin, evlenmek istediğiniz kişi olmasının olasılığı ne olabilir ?<a class="anchor-link" href="#Evlendi%C4%9Finiz-ki%C5%9Finin,-evlenmek-istedi%C4%9Finiz-ki%C5%9Fi-olmas%C4%B1n%C4%B1n-olas%C4%B1l%C4%B1%C4%9F%C4%B1-ne-olabilir-?"></a>
 </h1>
 <h1>
-<strong>Çözüm:</strong><a class="anchor-link" href="#%C3%87%C3%B6z%C3%BCm:">¶</a>
+<strong>Çözüm:</strong><a class="anchor-link" href="#%C3%87%C3%B6z%C3%BCm:"></a>
 </h1>
 <p>Aslında başta uyarmam gereken birkaç durum var.</p>
 <ul>
