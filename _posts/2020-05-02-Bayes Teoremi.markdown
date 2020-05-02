@@ -14,39 +14,39 @@
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1>Bayes' Teoremi<a class="anchor-link" href="#Bayes'-Teoremi">¶</a>
+<h1>Bayes' Teoremi<a class="anchor-link" href="#Bayes'-Teoremi"></a>
 </h1>
-<h2>Giriş<a class="anchor-link" href="#Giri%C5%9F">¶</a>
+<h2>Giriş<a class="anchor-link" href="#Giri%C5%9F"></a>
 </h2>
 <p>Bayes teoremi, bilinmeyen olasılıkları tümdengelimsel olarak ölçmenizi sağlayan  olasılık yasasıdır. Bayes Teoremi, koşullu olasılık üzerine kuruludur.</p>
-<h2>Thomas Bayes<a class="anchor-link" href="#Thomas-Bayes">¶</a>
+<h2>Thomas Bayes<a class="anchor-link" href="#Thomas-Bayes"></a>
 </h2>
 <p>Bayes teoremi adını 1700'lü yıllarda doğmuş olan İngiliz olasılıkçı Thomas Bayes'ten almaktadır. Bayes'in ailesi İngiltere'nin önemli Presbiteryen ailelerinden biriydi. 1719 yılında değişim kilisesine mensup olanların gidebildiği, Cambridge ve Oxford o dönemde Presbiteryenlere açık olmadığından, Edinburgh Üniversitesi'nde presbiteryen vaizliği eğitimi almaya başlamıştır.  Edinburgh Üniversitesi'nde okumuştur. Hayatta iken yazdığı notlar ölümünden sonra Richard Price tarafından derlenerek yayınlanmıştır.</p>
-<h2>Amaç<a class="anchor-link" href="#Ama%C3%A7">¶</a>
+<h2>Amaç<a class="anchor-link" href="#Ama%C3%A7"></a>
 </h2>
 <p>Bu makalenin içerdikleri:</p>
 <ul>
 <li>Bayes teoremini koşullu olasılıklarla ilişkili olarak tanımı </li>
 <li>Bayes teoremini uygulamalı örnekleri</li>
 </ul>
-<h2>Bayes' Formülü<a class="anchor-link" href="#Bayes'-Form%C3%BCl%C3%BC">¶</a>
+<h2>Bayes' Formülü<a class="anchor-link" href="#Bayes'-Form%C3%BCl%C3%BC"></a>
 </h2>
 <h1>
-<img class="math math-inline" alt="$P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$" src="https://render.githubusercontent.com/render/math?math=P%28A%7CB%29%20%3D%20%5Cdfrac%7BP%28B%7CA%29P%28A%29%7D%7BP%28B%29%7D&amp;mode=inline"><a class="anchor-link" href="#%24P(A%7CB)-=-%5Cdfrac%7BP(B%7CA)P(A)%7D%7BP(B)%7D%24">¶</a>
+<img class="math math-inline" alt="$P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$" src="https://render.githubusercontent.com/render/math?math=P%28A%7CB%29%20%3D%20%5Cdfrac%7BP%28B%7CA%29P%28A%29%7D%7BP%28B%29%7D&amp;mode=inline"><a class="anchor-link" href="#%24P(A%7CB)-=-%5Cdfrac%7BP(B%7CA)P(A)%7D%7BP(B)%7D%24"></a>
 </h1>
 <p>Bayes teoremi oldukça sezgiseldir ve her iki olayın da gerçekleşme olasılığı açısından A'ya bağlı B'nin koşullu olasılığı ayrıştırılarak B'nin doğru olma olasılığına bölünür. Bayes teoremi, bu doğal fikri bir adım ileriye taşıyarak, her iki olayın koşulun kendisiyle çarpımının koşullu bir olasılık olarak doğru olma olasılığını ifade eder.</p>
 <p>Özetlemek gerekirse:</p>
 <p>Bayes Teoremi, koşullu olasılıktan gelir.</p>
 <h3>
-<img class="math math-inline" alt="$P(A|B) = \dfrac{P(A \cap B)}{P(B)}$" src="https://render.githubusercontent.com/render/math?math=P%28A%7CB%29%20%3D%20%5Cdfrac%7BP%28A%20%5Ccap%20B%29%7D%7BP%28B%29%7D&amp;mode=inline"><a class="anchor-link" href="#%24P(A%7CB)-=-%5Cdfrac%7BP(A-%5Ccap-B)%7D%7BP(B)%7D%24">¶</a>
+<img class="math math-inline" alt="$P(A|B) = \dfrac{P(A \cap B)}{P(B)}$" src="https://render.githubusercontent.com/render/math?math=P%28A%7CB%29%20%3D%20%5Cdfrac%7BP%28A%20%5Ccap%20B%29%7D%7BP%28B%29%7D&amp;mode=inline"><a class="anchor-link" href="#%24P(A%7CB)-=-%5Cdfrac%7BP(A-%5Ccap-B)%7D%7BP(B)%7D%24"></a>
 </h3>
 <p><img class="math math-inline" alt="$P(A \cap B)$" src="https://render.githubusercontent.com/render/math?math=P%28A%20%5Ccap%20B%29&amp;mode=inline"> ' yi</p>
 <p><img class="math math-inline" alt="$P(B|A)P(A)$" src="https://render.githubusercontent.com/render/math?math=P%28B%7CA%29P%28A%29&amp;mode=inline">,</p>
 <p>olarak yazarsak formülümüz şuna dönüşür;</p>
 <h3>
-<img class="math math-inline" alt="$P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$" src="https://render.githubusercontent.com/render/math?math=P%28A%7CB%29%20%3D%20%5Cdfrac%7BP%28B%7CA%29P%28A%29%7D%7BP%28B%29%7D&amp;mode=inline"><a class="anchor-link" href="#%24P(A%7CB)-=-%5Cdfrac%7BP(B%7CA)P(A)%7D%7BP(B)%7D%24">¶</a>
+<img class="math math-inline" alt="$P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$" src="https://render.githubusercontent.com/render/math?math=P%28A%7CB%29%20%3D%20%5Cdfrac%7BP%28B%7CA%29P%28A%29%7D%7BP%28B%29%7D&amp;mode=inline"><a class="anchor-link" href="#%24P(A%7CB)-=-%5Cdfrac%7BP(B%7CA)P(A)%7D%7BP(B)%7D%24"></a>
 </h3>
-<h2>Basit bir örnek<a class="anchor-link" href="#Basit-bir-%C3%B6rnek">¶</a>
+<h2>Basit bir örnek<a class="anchor-link" href="#Basit-bir-%C3%B6rnek"></a>
 </h2>
 <p>İki tane akvaryum olduğunu varsayalım. Küçük akvaryumda, 10 tane palyaço balığı sahip olsun. Büyük akvaryumda ise 200 japon balığı ve 35 palyaço balığı olsun. Verilen bilgiler dahilinde seçilen bir palyaço balığının küçük akvaryumdan seçilmesi olasılığı nedir?</p>
 <p>Aslında büyük akvaryum hem kapasite olarak daha hem de balık sayısı olarak küçük akvaryumdan fazla olduğu için balığın büyük olandan seçilmiş olma olasılığı daha fazladır.</p>
@@ -60,7 +60,7 @@
 <p><img class="math math-inline" alt="$ P(\text{kucuk_akvaryum | palyaco_baligi}) = \dfrac{10}{45}$" src="https://render.githubusercontent.com/render/math?math=P%28%5Ctext%7Bkucuk_akvaryum%20%7C%20palyaco_baligi%7D%29%20%3D%20%5Cdfrac%7B10%7D%7B45%7D&amp;mode=inline"></p>
 <p>Bu örnek, tüm temel bilgilere sahip olduğunuzdan Bayes teoremi uygulanmadan da çözülebilir. Küçük tanktaki palyaço balıklarının sayısına karşı genel olarak palyaço balıklarının sayısına bakmak yine aynı sonuca götürecektir:</p>
 <p><img class="math math-inline" alt="$\dfrac{10}{45}$" src="https://render.githubusercontent.com/render/math?math=%5Cdfrac%7B10%7D%7B45%7D&amp;mode=inline"></p>
-<h2>Başka bir örnek: NLP Örneği<a class="anchor-link" href="#Ba%C5%9Fka-bir-%C3%B6rnek:-NLP-%C3%96rne%C4%9Fi">¶</a>
+<h2>Başka bir örnek: NLP Örneği<a class="anchor-link" href="#Ba%C5%9Fka-bir-%C3%B6rnek:-NLP-%C3%96rne%C4%9Fi"></a>
 </h2>
 <p>Bayes teoremi spam mesajların sınıflandırılmasında doğal bir metod olarak kullanılabilir. Mesela "teklif" kelimesini ele alalım örneğin: (Size özel teklifimiz, Size bir teklifimiz var, Bu teklifi kaçırmayın!). Bu şekilde ulaşmış mesajların %73'ü spam etiketli olsun. %10 'u ise almak istediğimiz türden "teklif" kelimesini içeren mailler olsun. Eğer aldığımız tüm maillerin %20'si spam ise, yeni gelen bir mailin "teklif" kelimesini içerdiğinde spam olma olasılığı nedir?</p>
 <p><img class="math math-inline" alt="$P(\text{Spam | Teklif}) = \dfrac{P(\text{Teklif | Spam})P(\text{Spam})}{P(\text{Teklif})}$" src="https://render.githubusercontent.com/render/math?math=P%28%5Ctext%7BSpam%20%7C%20Teklif%7D%29%20%3D%20%5Cdfrac%7BP%28%5Ctext%7BTeklif%20%7C%20Spam%7D%29P%28%5Ctext%7BSpam%7D%29%7D%7BP%28%5Ctext%7BTeklif%7D%29%7D&amp;mode=inline"></p>
