@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HAKKIMDA
-permalink: /hakkimda/
+title: About me
+permalink: /about/
 ---
 
 {% include image.html url="/images/octojekyll.png" caption="" width=300 align="right" %}
