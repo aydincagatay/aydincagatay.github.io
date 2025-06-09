@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Bu sayfa güncellenecektir.
+Not found!
